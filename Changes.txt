@@ -1,0 +1,8 @@
+Added Header top
+Added Footer bottom
+Added Nav to links
+Addded id= to search engine optimization
+Added Main
+Added Section for side bar
+Changed footer header to h4 instead of h2
+Fixed Css to match above changes
